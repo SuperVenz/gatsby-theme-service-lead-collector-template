@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "site",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@supervenz/service-lead-collector": "*",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

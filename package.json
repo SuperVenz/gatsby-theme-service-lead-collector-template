@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "service-lead-collector",
+      "site"
+    ],
+    "nohoist": []
+  }
+}
